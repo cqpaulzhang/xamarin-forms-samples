@@ -8,7 +8,6 @@
                        Title="Bezier Curve">
     
     <Grid BackgroundColor="White">
-
         <skia:SKCanvasView x:Name="canvasView"
                            PaintSurface="OnCanvasViewPaintSurface" />
         <Grid.Effects>
